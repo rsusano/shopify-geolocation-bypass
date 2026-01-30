@@ -94,7 +94,7 @@ Ensure your setup is production-ready by checking these items:
 Created for high-performance dropshipping and international sales funnels.
 
 **Issues?** Open an issue in this repository.
-**Author**: [Your Name/Handle]
+**Author**: Rafael Susano/rsusano
 
 ---
 *Made with ❤️ for the Shopify Community*
