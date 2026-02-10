@@ -5,6 +5,7 @@ A robust, client-side solution to create custom landing pages that **force speci
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Platform](https://img.shields.io/badge/platform-Shopify-green.svg) ![Language](https://img.shields.io/badge/language-JavaScript%20%7C%20Liquid-orange.svg)
 
 ## � Visual Preview
+https://github.com/user-attachments/assets/72744978-c671-4b9f-abbb-d723c716ade3
 
 ### Before & After
 | Standard Page (Problem) | Landing Page (Solution) |
